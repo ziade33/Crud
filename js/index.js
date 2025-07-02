@@ -19,3 +19,5 @@ data.innerHTML=
         <button type="reset" onclick="getRandomFromArray(q)" class="btn-hover btn w-25 h-80px btn-primary rounded-0 border-2 border-black">New Quote</button>
         <div class="w-100 text-center" >`+ random +`</div>
     </div>`
+
+    console.log('Hello')
